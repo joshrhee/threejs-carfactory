@@ -6,15 +6,8 @@
 * **Environment**
   * [Node](https://nodejs.org/) >= v8.10 and [npm](https://www.npmjs.com/) >= v5.6
   * [Create React app](https://reactjs.org/docs/create-a-new-react-app.html)
-  ```bash
-    npx create-react-app react-three-fiber-introduction
-    cd react-three-fiber-introduction
-  ```
   * Install [three](https://threejs.org/docs/index.html#manual/en/introduction/Installation), [react-three-fiber](https://github.com/pmndrs/react-three-fiber#react-three-fiber), [use-cannon](https://www.npmjs.com/package/use-cannon), and then start the app.
-  ```bash
-    npm install three react-three-fiber use-cannon
-    npm start
-  ```
+  
   * Versions used in this project:
   ```bash
     "dependencies": {
