@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "//joshrhee.github.io/threejs-carfactory/static/css/main.a617e044.chunk.css",
+    "main.js": "//joshrhee.github.io/threejs-carfactory/static/js/main.e295c56a.chunk.js",
+    "main.js.map": "//joshrhee.github.io/threejs-carfactory/static/js/main.e295c56a.chunk.js.map",
+    "runtime-main.js": "//joshrhee.github.io/threejs-carfactory/static/js/runtime-main.52af3c1a.js",
+    "runtime-main.js.map": "//joshrhee.github.io/threejs-carfactory/static/js/runtime-main.52af3c1a.js.map",
+    "static/js/2.211eb7a7.chunk.js": "//joshrhee.github.io/threejs-carfactory/static/js/2.211eb7a7.chunk.js",
+    "static/js/2.211eb7a7.chunk.js.map": "//joshrhee.github.io/threejs-carfactory/static/js/2.211eb7a7.chunk.js.map",
+    "static/js/3.918431e8.chunk.js": "//joshrhee.github.io/threejs-carfactory/static/js/3.918431e8.chunk.js",
+    "static/js/3.918431e8.chunk.js.map": "//joshrhee.github.io/threejs-carfactory/static/js/3.918431e8.chunk.js.map",
+    "static/js/4.e7bd254b.chunk.js": "//joshrhee.github.io/threejs-carfactory/static/js/4.e7bd254b.chunk.js",
+    "static/js/4.e7bd254b.chunk.js.map": "//joshrhee.github.io/threejs-carfactory/static/js/4.e7bd254b.chunk.js.map",
+    "index.html": "//joshrhee.github.io/threejs-carfactory/index.html",
+    "static/css/main.a617e044.chunk.css.map": "//joshrhee.github.io/threejs-carfactory/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.211eb7a7.chunk.js.LICENSE.txt": "//joshrhee.github.io/threejs-carfactory/static/js/2.211eb7a7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52af3c1a.js",
+    "static/js/2.211eb7a7.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.e295c56a.chunk.js"
+  ]
+}
